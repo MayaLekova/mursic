@@ -1,0 +1,3 @@
+[submodule "themes/flexy"]
+	path = themes/flexy
+	url = git@github.com:mayalekova/flexy.git
